@@ -48,7 +48,6 @@ hold off
 % Save variables 
 save('patterns2.m','w1','w2')
 
-end 
 
 
  
