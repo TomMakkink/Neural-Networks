@@ -1,0 +1,13 @@
+clear all 
+close all 
+
+
+%% Read in and view the data 
+
+t = river_dataset;
+t = cell2mat(t);
+t = t';
+plot(t) 
+title('River ') 
+xlabel('time')
+ylabel('power')
