@@ -1,0 +1,1 @@
+openExample('nnet/classify_crab_demo')
